@@ -26,14 +26,16 @@ reveal-md docs/index.md
 
 ## Kotlin Native Build
 
-To compile this project natively, you have to go to the [current Kotlin release page](https://github.com/JetBrains/kotlin/releases) (currently
-version 1.8.0) and download the distribution
-that fits your operating system (you have to scroll down a bit). and download the
-distribution that fits your operating system (you have to scroll down a bit).
+To compile this project natively, you have to go to
+the [current Kotlin release page](https://github.com/JetBrains/kotlin/releases) (currently
+version 1.8.0) and download the distribution that fits your operating system (you have to scroll
+down a bit).
 
 ```shell
 kotlinc-native src/nativeMain/kotlin/Main.kt -o build/Main
 ```
+
+
 
 [^1]: A tutorial for the installation can be found at
 the [link](https://nodejs.org/en/download/package-manager/) above.
