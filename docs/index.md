@@ -2,17 +2,18 @@
 title: Dezentrale Kotlin Course
 separator: <!--s-->
 verticalSeparator: <!--v-->
-theme: moon
+theme: night
 revealOptions:
 transition: 'fade'
 ---
-# Dezentrale Kotlin Course
+
+# Kotlin Course
 
 ---
 
-## Kotlin language basics
+## Kotlin Language Basics
 
 Kotlin is a...
 
 - multiplatform programming language
-- its penis is bigger as any other
+- 
