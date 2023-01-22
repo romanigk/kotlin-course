@@ -6,7 +6,7 @@ theme: moon
 revealOptions:
 transition: 'fade'
 ---
-# Dezentrale Kotlin course
+# Dezentrale Kotlin Course
 
 ---
 

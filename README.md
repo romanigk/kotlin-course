@@ -12,7 +12,7 @@ Um anschlie
 execute the following command:
 
 ```bash
-reveal-md slides.md
+reveal-md docs/index.md
 ```
 
 To be able to execute the command afterwards, we have to make the path known. This can be done either once with an 
@@ -23,5 +23,5 @@ export PATH=<path_to_reval_md_bin_path>:$PATH
 
 or by adding this path to `~/.profile`
 
-
-[^1]: a tutorial for the installation can be found at the link above
+[^1]: A tutorial for the installation can be found at
+the [link](https://nodejs.org/en/download/package-manager/) above.
