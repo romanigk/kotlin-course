@@ -21,7 +21,7 @@ export PATH=<path_to_reval_md_bin_path>:$PATH
 or by adding this path to `~/.profile`. When this is done, you can execute the command:
 
 ```shell
-reveal-md docs/index.md
+reveal-md docs/slides.md -w
 ```
 
 ## Kotlin Native Build
