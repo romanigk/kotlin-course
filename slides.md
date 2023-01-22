@@ -1,4 +1,14 @@
+---
+title: Dezentrale Kotlin Course
+separator: <!--s-->
+verticalSeparator: <!--v-->
+theme: moon
+revealOptions:
+transition: 'fade'
+---
 # Dezentrale Kotlin course
+
+---
 
 ## Kotlin language basics
 

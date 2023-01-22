@@ -8,11 +8,20 @@ the [node package manager (npm)](https://nodejs.org/en/download/package-manager/
 ```bash
 npm install -g reveal-md
 ```
-
+Um anschlie
 execute the following command:
 
 ```bash
-reveal-md slides.md --theme league
+reveal-md slides.md
 ```
+
+To be able to execute the command afterwards, we have to make the path known. This can be done either once with an 
+
+```bash
+export PATH=<path_to_reval_md_bin_path>:$PATH
+```
+
+or by adding this path to `~/.profile`
+
 
 [^1]: a tutorial for the installation can be found at the link above
